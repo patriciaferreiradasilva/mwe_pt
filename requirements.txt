@@ -1,0 +1,6 @@
+pandas
+wget
+io
+conllu
+sklearn
+#pylint
